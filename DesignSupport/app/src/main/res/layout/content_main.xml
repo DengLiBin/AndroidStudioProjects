@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_main"
+    tools:context="com.denglibin.designsupport.MainActivity">
+
+    <TextView
+        android:id="@+id/tv_text"
+        android:text="Hello World!"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <android.support.design.widget.FloatingActionButton
+        android:layout_below="@id/tv_text"
+        android:id="@+id/btn_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/slide_adv_selected"
+        app:fabSize="normal"
+        app:elevation="0dp"
+        app:rippleColor="#000000"
+        app:backgroundTint="#3300ff"/>
+    <android.support.design.widget.TextInputLayout
+        android:layout_below="@id/btn_fab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_input">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/et_text"/>
+    </android.support.design.widget.TextInputLayout>
+    <Button
+        android:layout_below="@id/text_input"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:id="@+id/btn_btn"
+        android:text="跳转到tabActivity"/>
+
+</RelativeLayout>

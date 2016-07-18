@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <TextView
+        style="@style/CalendarText"
+        android:id="@+id/tv_date"
+        android:text="公历"
+        android:elevation="8dp"
+       />
+    <TextView
+        android:id="@+id/tv_weekday"
+        style="@style/CalendarText"
+        android:text="星期"
+        android:elevation="8dp"
+       />
+    <TextView
+        android:id="@+id/tv_lunar"
+        style="@style/CalendarText"
+        android:text="农历"
+        android:elevation="8dp"
+       />
+    <TextView
+        android:id="@+id/tv_lunarYear"
+        style="@style/CalendarText"
+        android:text="农历年份"
+        android:elevation="8dp"
+       />
+    <TextView
+        style="@style/CalendarText"
+        android:id="@+id/tv_animal"
+        android:text="属相"
+        android:elevation="8dp"
+       />
+    <TextView
+        style="@style/CalendarText"
+        android:id="@+id/tv_holiday"
+        android:text="节日"
+        android:elevation="8dp" />
+    <TextView
+        style="@style/CalendarText"
+        android:id="@+id/tv_desc"
+        android:text="节日描述"
+        android:elevation="8dp" />
+    <TextView
+        style="@style/CalendarText"
+        android:id="@+id/tv_suit"
+        android:text="宜"
+        android:elevation="8dp" />
+    <TextView
+        style="@style/CalendarText"
+        android:id="@+id/tv_avoid"
+        android:text="忌"
+        android:elevation="8dp" />
+
+</LinearLayout>
+    </ScrollView>

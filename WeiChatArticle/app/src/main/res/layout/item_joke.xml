@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#fff"
+    android:layout_marginTop="4dp"
+    android:elevation="8dp">
+    <TextView
+        android:id="@+id/tv_joke"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="笑话内容"
+        android:textSize="22sp"
+        android:padding="8dp"
+        android:textStyle="italic"/>
+    <TextView
+        android:layout_marginTop="8dp"
+        android:id="@+id/tv_uptime"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:gravity="end"
+        android:text="2016.05.07 14:05:23"/>
+</LinearLayout>

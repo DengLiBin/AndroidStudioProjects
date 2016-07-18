@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\controllerplaying.xml",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\layout\\controllerplaying.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_list_item.xml",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\layout\\file_list_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\resolution_item.xml",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\layout\\resolution_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\subtitle_setting_layout.xml",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\layout\\subtitle_setting_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cyberplayermediainfotest.xml",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\layout\\cyberplayermediainfotest.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

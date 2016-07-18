@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:context=".ArticleActivity">
+    <item android:id="@+id/share"
+        android:title="@string/share"
+        android:icon="@android:drawable/ic_menu_share"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        />
+    <item android:id="@+id/typeface"
+        android:title="@string/action_type"
+        android:icon="@mipmap/icon_textsize"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        />
+</menu>

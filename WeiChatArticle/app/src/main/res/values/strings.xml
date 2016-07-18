@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">微信精选</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="article">文章</string>
+    <string name="share">分享</string>
+    <string name="action_type">文字大小</string>
+    <string name="main">主页</string>
+    <string name="wei">微信精选</string>
+    <string name="setting">设置</string>
+    <string name="exit">退出</string>
+
+</resources>

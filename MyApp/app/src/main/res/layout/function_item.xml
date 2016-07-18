@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.andexert.library.RippleView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="200dp"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/tv_left_home"
+        style="@style/Function_item_text"
+        android:drawableLeft="@mipmap/ic_home_black_24dp"
+        android:text="主页" />
+
+    <TextView
+        android:id="@+id/tv_left_music"
+        style="@style/Function_item_text"
+        android:drawableLeft="@mipmap/ic_queue_music_black_24dp"
+        android:text="本地音乐" />
+
+    <TextView
+        android:id="@+id/tv_left_weatther"
+        style="@style/Function_item_text"
+        android:drawableLeft="@mipmap/ic_cloud_circle_black_24dp"
+        android:text="天气" />
+
+    <TextView
+        android:id="@+id/tv_left_watch"
+        style="@style/Function_item_text"
+        android:drawableLeft="@mipmap/ic_schedule_black_24dp"
+        android:text="时钟" />
+
+    <TextView
+        android:id="@+id/tv_left_news"
+        style="@style/Function_item_text"
+        android:drawableLeft="@mipmap/ic_toys_black_24dp"
+        android:text="新闻" />
+
+    <TextView
+        android:id="@+id/tv_left_movie"
+        style="@style/Function_item_text"
+        android:drawableLeft="@mipmap/ic_movie_black_24dp"
+        android:text="电影" />
+
+</LinearLayout>
+    </com.andexert.library.RippleView>

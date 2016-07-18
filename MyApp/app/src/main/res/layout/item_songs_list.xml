@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:translationZ="20dp"
+        android:elevation="20dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:id="@+id/line_lay_item"
+        android:layout_margin="12dp">
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:padding="4dp"
+            android:elevation="4dp"
+            android:text="歌名"
+            android:background="#fff"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/tv_artist"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:padding="4dp"
+            android:text="艺术家"
+            android:elevation="2dp"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+    </LinearLayout>

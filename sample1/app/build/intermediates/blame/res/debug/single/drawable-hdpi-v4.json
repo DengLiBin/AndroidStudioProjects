@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_zoom_in_btn_videoplayer.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\ic_zoom_in_btn_videoplayer.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_subtitle_setting.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_subtitle_setting.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_zoom_out_btn_videoplayer_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\ic_zoom_out_btn_videoplayer_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_play_media_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_play_media_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_seekbar_background_process.9.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_seekbar_background_process.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_stop_media_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_stop_media_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_next_play_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_next_play_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_next_play_disable.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_next_play_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_seekbar_cache.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_seekbar_cache.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_seekbar_background_sound_normal.9.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_seekbar_background_sound_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_set_resolution_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_set_resolution_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_retreat_media_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_retreat_media_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_volumebar_background.9.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_volumebar_background.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_zoom_out_btn_videoplayer_disable.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\ic_zoom_out_btn_videoplayer_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_next_play.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_next_play.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_episode_titlebar_videoplayer_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\ic_episode_titlebar_videoplayer_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_stop_media_disable.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_stop_media_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_take_snapshot_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_take_snapshot_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_seekbar_background_sound_process.9.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_seekbar_background_sound_process.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_switch_subtitle.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_switch_subtitle.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_switch_subtitle_disable.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_switch_subtitle_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_zoom_in_btn_videoplayer_disable.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\ic_zoom_in_btn_videoplayer_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_play_media.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_play_media.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_set_resolution.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_set_resolution.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_seekbar_normal.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_seekbar_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_seekbar_background_normal.9.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_seekbar_background_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_subtitle_setting_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_subtitle_setting_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_retreat_media.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_retreat_media.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_episode_titlebar_videoplayer_disable.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\ic_episode_titlebar_videoplayer_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_take_snapshot_disable.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_take_snapshot_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_titlebar_return.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_titlebar_return.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_set_resolution_disable.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_set_resolution_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_retreat_media_disable.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_retreat_media_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_listbtn_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_listbtn_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_zoom_out_btn_videoplayer.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\ic_zoom_out_btn_videoplayer.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_seekbar_background.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_seekbar_background.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_stop_media.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_stop_media.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_play_media_disable.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_play_media_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_listbtn_normal.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_listbtn_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_textbtn_background_blue.9.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_textbtn_background_blue.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_zoom_in_btn_videoplayer_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\ic_zoom_in_btn_videoplayer_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_subtitle_setting_disable.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_subtitle_setting_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_switch_subtitle_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_switch_subtitle_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_take_snapshot.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_take_snapshot.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_seekbar_ratio_white.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_seekbar_ratio_white.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_episode_titlebar_videoplayer.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\ic_episode_titlebar_videoplayer.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cyberplayer_seekbar_ratio.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-hdpi\\cyberplayer_seekbar_ratio.png"
+    }
+]

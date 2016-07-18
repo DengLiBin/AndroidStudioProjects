@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical">
+
+        <com.denglibin.sweepdelete.SweepDeleteView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="?attr/actionBarSize">
+
+            <include layout="@layout/item_content" />
+
+            <include layout="@layout/item_delete" />
+        </com.denglibin.sweepdelete.SweepDeleteView>
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:background="#555555"
+            android:text="内容"
+            android:gravity="center"
+            android:textColor="@android:color/white"
+            android:textSize="24sp"/>
+    </LinearLayout>
+
+

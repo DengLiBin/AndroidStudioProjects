@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="16dp"
+    android:descendantFocusability="beforeDescendants"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"><!-- 为突出卡片效果，需设置左右padding,上下通过listView的divider设置 -->
+
+    <LinearLayout
+        android:id="@+id/line_lay_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="15dp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:paddingRight="15dp"
+        android:background="@drawable/item_bg"
+        android:clickable="true"
+        android:orientation="horizontal">
+
+        <com.denglibin.weichatarticle.image.SmartImageView
+            android:id="@+id/iv_firstImg"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@mipmap/ic_launcher" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="8dp">
+
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:ellipsize="end"
+                android:gravity="left"
+                android:maxLines="2"
+                android:singleLine="false"
+                android:text="标题"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_sources"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="8dp"
+                android:layout_marginRight="8dp"
+                android:gravity="end"
+                android:text="来源：人民网"
+                android:textSize="14sp" />
+        </RelativeLayout>
+    </LinearLayout>
+</FrameLayout>

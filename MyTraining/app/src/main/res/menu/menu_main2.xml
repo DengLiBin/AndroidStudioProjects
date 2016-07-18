@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--使用的是support兼容庫，需要自己定義命名空間:train-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:train="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Main2Activity">
+    <item android:id="@+id/share"
+        android:title="@string/action_share"
+        android:icon="@mipmap/icon_share"
+        android:orderInCategory="50"
+        train:showAsAction="ifRoom"/>
+    <item android:id="@+id/typeface"
+        android:title="@string/action_type"
+        android:icon="@mipmap/icon_textsize"
+        android:orderInCategory="100"
+        train:showAsAction="ifRoom"/>
+</menu>

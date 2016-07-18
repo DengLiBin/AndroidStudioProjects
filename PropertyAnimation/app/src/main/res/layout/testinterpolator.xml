@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/ball"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ball"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="50dp"
+        />
+
+    <ImageView
+        android:id="@+id/ball2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ball"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="50dp"
+        android:visibility="gone"
+        />
+
+    <Button
+        android:id="@+id/interp1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="加速" />
+    <Button
+        android:id="@+id/interp2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/interp1"
+        android:text="弹跳" />
+    <Button
+        android:id="@+id/interp3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/interp2"
+        android:text="回弹" />
+    <Button
+        android:id="@+id/interp4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/interp3"
+        android:text="自1" />
+    <Button
+        android:id="@+id/interp5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/interp4"
+        android:text="自2" />
+</RelativeLayout>

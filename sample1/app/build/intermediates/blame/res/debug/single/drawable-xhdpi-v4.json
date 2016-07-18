@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_list_folder.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-xhdpi\\icon_list_folder.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_list_unknown.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-xhdpi\\icon_list_unknown.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_list_videofile.png",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable-xhdpi\\icon_list_videofile.png"
+    }
+]

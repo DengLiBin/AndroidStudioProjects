@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="12dp"
+    android:paddingTop="12dp">
+
+    <!--time-->
+    <TextView
+        android:id="@+id/tv_time_out"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="#97C024"
+        android:gravity="center"
+        android:text="2016 3:25"
+        android:textColor="#000" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp">
+        <!--head_icon-->
+        <ImageView
+            android:id="@+id/iv_my_head"
+            android:layout_height="30dp"
+            android:layout_width="30dp"
+            android:src="@mipmap/ic_launcher"
+            android:layout_alignParentRight="true"/>
+
+        <!--sms-->
+        <TextView
+            android:id="@+id/tv_sms_send"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_toLeftOf="@id/iv_my_head"
+            android:background="@drawable/outgoing"
+            android:text="消息发出去了"
+            android:textColor="#000"
+            android:textSize="18sp"/>
+    </RelativeLayout>
+</LinearLayout>

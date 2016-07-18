@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/xmlns:tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@mipmap/head_bg"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:id="@+id/main_title_leftbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="30sp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="5dp"
+        android:textSize="12sp"
+        android:textColor="#88FFFFFF"
+        android:text="按钮左"
+        android:padding="1dp"
+        android:background="@drawable/button_selector"/>
+
+    <TextView
+        android:id="@+id/main_title_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="红孩儿"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp"
+        android:layout_centerInParent="true" />
+
+    <Button
+        android:id="@+id/main_title_rightbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="30sp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="5dp"
+        android:textSize="12sp"
+        android:textColor="#88FFFFFF"
+        android:text="按钮右"
+        android:padding="1dp"
+        android:background="@drawable/button_selector"/>
+</RelativeLayout>

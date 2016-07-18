@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cyberplayer_take_snapshot.xml",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable\\ic_cyberplayer_take_snapshot.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_zoom_in_btn_videoplayer_style.xml",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable\\ic_zoom_in_btn_videoplayer_style.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_retreat_media_style.xml",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable\\ic_retreat_media_style.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_get_metadata_style.xml",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable\\btn_get_metadata_style.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_media_style.xml",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable\\ic_play_media_style.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_zoom_out_btn_videoplayer_style.xml",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable\\ic_zoom_out_btn_videoplayer_style.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_next_play_style.xml",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable\\ic_next_play_style.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_stop_media_style.xml",
+        "source": "E:\\AndroidStudioProjects\\sample1\\app\\src\\main\\res\\drawable\\ic_stop_media_style.xml"
+    }
+]

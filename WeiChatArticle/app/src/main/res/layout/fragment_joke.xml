@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <com.denglibin.weichatarticle.view.PullToRefreshView
+        android:id="@+id/refresh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <ListView
+        android:divider="@null"
+        android:dividerHeight="8dp"
+
+
+        android:id="@+id/lv_joke"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></ListView>
+    </com.denglibin.weichatarticle.view.PullToRefreshView>
+</LinearLayout>

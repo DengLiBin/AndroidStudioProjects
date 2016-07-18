@@ -1,0 +1,25 @@
+
+<!--使用的是support兼容庫，需要自己定義命名空間:app-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.denglibin.mytraining.MainActivity" >
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_settings1"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_settings2"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_search"
+        android:title="@string/action_search"
+        android:icon="@mipmap/ic_action_search"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom" />
+</menu>
